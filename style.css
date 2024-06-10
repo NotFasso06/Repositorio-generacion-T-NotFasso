@@ -1,0 +1,135 @@
+.body {
+    background-image: url(Casa\ abandonada.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+#jugar {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 500px;
+    width:200px;
+    height:auto;
+    border-radius: 20px;
+    background-color: #1c1c1c;
+    padding: 20px;
+    
+}
+.Inicio {
+    background-color: #1c1c1c;
+    background-image: url(inicio.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+#p_inicio {
+    font-size: 30px;
+    color: yellow;
+    height: 200px;
+    width: 360px ;
+    margin: 10px 1300px;
+}
+#opcion1 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    position: relative; 
+    top: 600px; 
+    left: 50px; 
+    padding: 25px;
+    border-radius: 40px;
+  background-color: #1c1c1c;
+
+}
+
+#opcion2 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    position: relative; 
+    top: 580px;
+    left: 600px; 
+    padding: 25px;
+    border-radius: 40px;
+  background-color: #1c1c1c;
+}
+#body_final1 {
+    background-image: url(persona\ mirando\ reels.jpg);
+    background-position: auto; 
+    background-size: 2000px 1000px; 
+    background-repeat: no-repeat;
+}
+#p_final1 {
+    padding: 2px;
+    color: #fff;;
+    font-size: 20px;
+    margin-left: 1300px;
+    padding: 20px;
+    border-radius: 40px;
+  background-color: #1c1c1c;
+}
+#a_restart1 {
+    color: #fff;
+    font-size: 20px;
+    padding: 20px; 
+    border-radius: 40px;
+    background-color: #1c1c1c;
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: -90px;
+}
+#body_entrada {
+    background-image: url(entrada.jpg);
+    background-position: auto; 
+    background-size: 2000px 1000px; 
+    background-repeat: no-repeat;
+}
+.p_entrada {
+    padding: 2px;
+    color: #fff;;
+    font-size: 20px;
+    margin-top:200px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px;
+  background-color: #1c1c1c;
+}
+.a_entrada {
+    
+    padding: 2px;
+    color: #fff;;
+    font-size: 20px;
+    margin-left: 50%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px;
+  background-color: #1c1c1c;
+}
+
+#final_pasillo {
+    background-image: url(pasillo.jpg);
+    background-position: auto; 
+    background-size: 2000px 1000px; 
+    background-repeat: no-repeat;
+}
+.p_final2 {
+    padding: 2px;
+    color: #fff;;
+    font-size: 20px;
+    margin-top: 200px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px;
+  background-color: #1c1c1c;
+}
+
+#a_restart2 {
+    color: red;
+    font-size: 20px;
+    padding: 20px; 
+    border-radius: 40px;
+    background-color: #1c1c1c;
+    position: absolute;
+    margin-left: 44%;
+    margin-top: 200px;
+}
